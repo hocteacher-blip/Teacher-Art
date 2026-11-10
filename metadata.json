@@ -1,0 +1,6 @@
+{
+  "name": "E-LEARNING SCHOOL – Hệ Thống Quản Lý Học Tập Trực Tuyến",
+  "description": "Hệ thống LMS quản lý học tập trực tuyến dành cho trường tiểu học: quản lý khóa học, bài giảng SCORM/HTML5/Video, thiết lập điểm dừng tương tác, theo dõi tiến độ và báo cáo thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
